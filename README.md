@@ -1,16 +1,10 @@
 # svg_to_bitmapdescription
 
-A new Flutter project.
+A new Flutter project for conver svg image to map marker(bitmapdescription). 
+![svgmarkermap](https://github.com/user-attachments/assets/bcba5850-2ff9-49d3-aa51-6a939f38c1de)
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For run this project you put your map api key in android folder and ios folder.
